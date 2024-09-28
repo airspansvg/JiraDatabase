@@ -1,0 +1,12 @@
+{
+    "Feature Name": "UDP_1xUE_BiDirectional_per_RU",
+    "Keyword": "Throughput",
+    "Automation Traffic Direction": "Bidi",
+    "Test_Run_Time": "300",
+    "Number of UEs": 1,
+    "Traffic Transport Layer Protocol": "UDP",
+    "Frame_Size": "1350",
+    "Traffic Testing tool": "IPERFv2",
+    "Summary": "[IPERF][UDP][Single Cell\\RU][FS 1350] Throughout 1 UE - Bidi only - 5 Minutes",
+    "Group Name": "Throughput_Results"
+}

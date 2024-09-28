@@ -1,0 +1,12 @@
+{
+    "Feature Name": "TCP_1xUE_DownLink_per_RU",
+    "Keyword": "Throughput",
+    "Automation Traffic Direction": "DL",
+    "Test_Run_Time": "300",
+    "Number of UEs": 1,
+    "Traffic Transport Layer Protocol": "TCP",
+    "Traffic Testing tool": "IPERFv2",
+    "TCP Window Size": "256K",
+    "Summary": "[IPERF][TCP][Single Cell\\RU][WS 256K] Throughout 1 UE - DL only - 5 Minutes",
+    "Group Name": "Throughput_Results"
+}

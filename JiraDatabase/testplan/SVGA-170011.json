@@ -1,0 +1,32 @@
+{
+    "setup_name": [
+        "ASIN-BAT2"
+    ],
+    "Summary": "[BAT2][AirStrand2200] 5 Min Throughput - 20Mhz",
+    "fix_versions": [
+        "AllInOne_SVG_Weekly_Regression",
+        "SR20.50 GA",
+        "SR21.00_GA"
+    ],
+    "test_suite": {
+        "SIR-44177": "gNB_SW_Upgrade_Via_ACP",
+        "SIR-43906": "gNB_Cold_Reboot_Via_ACP_Cycle_Loop_2",
+        "SIR-43905": "gNB_Warm_Reboot_Via_ACP_Cycle_Loop_2",
+        "SIR-43387": "gNB_Power_Cycle",
+        "SIR-45349": "gNB_Winet_PNP_Flow",
+        "SIR-42640": "Verify UEs attach and detach multiple times by OffOn RF of UEs (UDP)",
+        "SIR-43583": "[IPERF][UDP][Single Cell\\RU][FS 1350] Throughout 1 UE - Bidi only - 5 Minutes",
+        "SIR-46933": "[IPERF][TCP][Single Cell\\RU][WS 256K] Throughout 1 UE - DL only - 5 Minutes",
+        "SIR-46934": "[IPERF][TCP][Single Cell\\RU][WS 256K] Throughout 1 UE - UL only - 5 Minutes",
+        "SIR-43580": "[IPERF][UDP][Single Cell\\RU][FS 1300] Throughout 1 UE - UL only - 5 Minutes",
+        "SIR-43581": "[IPERF][UDP][Single Cell\\RU][FS 1300] Throughout 1 UE - DL only - 5 Minutes",
+        "SIR-44321": "[AIO] Tenable Scan",
+        "SIR-43654": "gNB_HW_Watchdog_functionality",
+        "SIR-54416": "[IPERF3][UDP][Single Cell\\RU][FS 1300][WS 20480K] Throughout 1 UE - Bidi only - 5 Minutes",
+        "SIR-54423": "[IPERF3][TCP][Single Cell\\RU][WS 20480K] Throughout 1 UE - UL only - 5 Minutes",
+        "SIR-54673": "Lock\\Unlock Cell Carrier and Validate alarms\\events_mMW",
+        "SIR-45925": "Verify Cells associated to a certain RMG are subjected to the RMG configuration",
+        "SIR-47679": "Verify RSI Collision Alarm is Generated after RSI Collision when RSI Collision Alarm is enabled(Iperf)",
+        "SIR-43354": "gNB_Provissioning"
+    }
+}
