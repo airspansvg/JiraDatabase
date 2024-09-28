@@ -7,7 +7,7 @@ setup(
     include_package_data=True,
     install_requires=[],
     package_data={
-        "": ['*.json'],  # Ensure the JSON files are included in the package
+        "": ["*.json"],  # Ensure the JSON files are included in the package
     },
     description="JIRA data backup package",
     author="Sitaram Hudda",
