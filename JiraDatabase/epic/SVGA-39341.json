@@ -1,0 +1,12 @@
+{
+    "Sub-Tasks": [
+        "SVGA-39342",
+        "SVGA-39343",
+        "SVGA-39344",
+        "SVGA-39345",
+        "SVGA-39346"
+    ],
+    "Product At Fault": "Unknown",
+    "Summary": "[EN-CFG] AS 2200/2900 10 Mhz Numerology=1,SCS=30Khz",
+    "Epic Name": "[EN-CFG] AS 2200/2900 10 Mhz Numerology=1,SCS=30Khz"
+}

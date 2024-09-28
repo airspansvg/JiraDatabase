@@ -1,0 +1,22 @@
+{
+    "Chipset": "FSM",
+    "TDD Split": "DL  80% : UL 20% ('70/20/10' DL/UL/F %)",
+    "Product support": "AIO-FSM",
+    "TP QAM config": [
+        "UL64QAM",
+        "DL256QAM"
+    ],
+    "BS Hardware Type": "AirSpeed 2900",
+    "Product At Fault": "RU",
+    "PUCCH": 2,
+    "Band": "n48",
+    "BW": "20+10MHz",
+    "Cell/Carrier Config": "MultiCell-Cont.",
+    "Summary": "[RU] AS2200 20+10MHz",
+    "Numerology(SCS)": "Numerology=1,SCS=30Khz",
+    "Format(SSF)": "Format 6 - DL 71% : UL 0%",
+    "UL Layers": 1,
+    "DL Layers": 2,
+    "DL CA": 1,
+    "UL CA": 1
+}

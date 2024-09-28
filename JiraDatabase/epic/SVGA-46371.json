@@ -1,0 +1,22 @@
+{
+    "R&D Committed Release": "No R&D commit",
+    "R&D Approved Release": "No R&D commit",
+    "Platform": "None",
+    "Epic/Initiative": "Epic",
+    "Outbound Roadmap": "No",
+    "Sub-Tasks": [
+        "SVGA-46375",
+        "SVGA-46381",
+        "SVGA-46383",
+        "SVGA-46385",
+        "SVGA-46386",
+        "SVGA-63653"
+    ],
+    "Prerelease R&D Commit": "No R&D Commit",
+    "Product At Fault": "Unknown",
+    "Summary": "[EN-CFG] AS1900(n77) AV1901(n77) 100 Mhz Numerology=1,SCS=30Khz",
+    "Epic Name": "[EN-CFG] AS AS1900(n77) AV1901(n77) 40 Mhz Numerology=1,SCS=30Khz",
+    "SRS Approved": "No",
+    "Test List CV": "5",
+    "Reasons": "Other"
+}

@@ -1,0 +1,21 @@
+{
+    "Sub-Tasks": [
+        "SVGA-7239",
+        "SVGA-7240",
+        "SVGA-7241",
+        "SVGA-7242",
+        "SVGA-7243",
+        "SVGA-7245",
+        "SVGA-7246",
+        "SVGA-7247",
+        "SVGA-7248",
+        "SVGA-7249",
+        "SVGA-9636",
+        "SVGA-9637",
+        "SVGA-9638",
+        "SVGA-9639"
+    ],
+    "Product At Fault": "Unknown",
+    "Summary": "[EN-CFG] AirVelocity2700 60 Mhz Numerology=1,SCS=30Khz",
+    "Epic Name": "[EN-CFG] AirVelocity2700 100 Mhz Numerology=1,SCS=30Khz"
+}

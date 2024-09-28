@@ -1,0 +1,11 @@
+{
+    "Sub-Tasks": [
+        "SVGA-15205",
+        "SVGA-15206",
+        "SVGA-15207",
+        "SVGA-15208"
+    ],
+    "Product At Fault": "Unknown",
+    "Summary": "[EN-CFG] 100 Mhz N79 Numerology=1,SCS=30Khz",
+    "Epic Name": "[EN-CFG] AirVelocity2700 100 Mhz N79 Numerology=1,SCS=30Khz"
+}

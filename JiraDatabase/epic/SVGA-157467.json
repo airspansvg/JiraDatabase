@@ -1,0 +1,28 @@
+{
+    "R&D Committed Release": "No R&D commit",
+    "R&D Approved Release": "No R&D commit",
+    "Platform": "None",
+    "Epic/Initiative": "Epic",
+    "Outbound Roadmap": "No",
+    "Sub-Tasks": [
+        "SVGA-157469",
+        "SVGA-157471",
+        "SVGA-157472",
+        "SVGA-157474"
+    ],
+    "BS Hardware Type": "AIO",
+    "Prerelease R&D Commit": "No R&D Commit",
+    "Product At Fault": "Unknown",
+    "Committed to Customers": "All",
+    "Component/s": "5g",
+    "Summary": "5G Regression",
+    "Epic Name": "5G Regression",
+    "Numerology(SCS)": "Numerology=0,SCS=15Khz",
+    "Fix Version/s": "SR21.00_GA",
+    "Affects Version/s": "SR21.00_GA",
+    "SRS Approved": "No",
+    "Test List CV": "5",
+    "Reasons": "Other",
+    "DL CA": 1,
+    "UL CA": 1
+}

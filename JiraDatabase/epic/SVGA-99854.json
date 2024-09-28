@@ -1,0 +1,25 @@
+{
+    "R&D Committed Release": "No R&D commit",
+    "R&D Approved Release": "No R&D commit",
+    "Platform": "None",
+    "Epic/Initiative": "Epic",
+    "Outbound Roadmap": "No",
+    "Sub-Tasks": [
+        "SVGA-99855",
+        "SVGA-99856",
+        "SVGA-99858",
+        "SVGA-99859",
+        "SVGA-99863",
+        "SVGA-99864",
+        "SVGA-99865"
+    ],
+    "Prerelease R&D Commit": "No R&D Commit",
+    "Product At Fault": "Unknown",
+    "Summary": "[EN-CFG] n48 40+40 Mhz vs. 40Mhz Numerology=1,SCS=30Khz,30/60/10 DL/UL/F, DL256QAM, UL64QAM",
+    "Epic Name": "[EN-CFG] n48 40+40 Mhz vs. 40Mhz Numerology=1,SCS=30Khz,30/60/10 DL/UL/F, DL256QAM, UL64QAM",
+    "SRS Approved": "No",
+    "Test List CV": "5",
+    "Reasons": "Other",
+    "DL CA": 1,
+    "UL CA": 1
+}

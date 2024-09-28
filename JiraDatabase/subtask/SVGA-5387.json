@@ -1,0 +1,19 @@
+{
+    "TP QAM config": [
+        "DL64QAM",
+        "UL256QAM"
+    ],
+    "BS Hardware Type": "mmW RDU",
+    "Product At Fault": "RU",
+    "PUCCH": 1,
+    "Band": "B41LH",
+    "BW": "Unknown",
+    "Cell/Carrier Config": "Unknown",
+    "Summary": "mMW_RU",
+    "Numerology(SCS)": "Numerology=1,SCS=30Khz",
+    "Format(SSF)": "Format 6 - DL 71% : UL 0%",
+    "UL Layers": 1,
+    "DL Layers": 2,
+    "DL CA": 1,
+    "UL CA": 1
+}

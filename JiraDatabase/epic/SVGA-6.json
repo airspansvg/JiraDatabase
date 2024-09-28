@@ -1,0 +1,25 @@
+{
+    "Sub-Tasks": [
+        "SVGA-8",
+        "SVGA-9",
+        "SVGA-10",
+        "SVGA-11",
+        "SVGA-4212",
+        "SVGA-4223",
+        "SVGA-4224",
+        "SVGA-4729",
+        "SVGA-4730",
+        "SVGA-4732",
+        "SVGA-5314",
+        "SVGA-5316",
+        "SVGA-7233",
+        "SVGA-7234",
+        "SVGA-7235",
+        "SVGA-7236",
+        "SVGA-7237",
+        "SVGA-7238"
+    ],
+    "Product At Fault": "Unknown",
+    "Summary": "[EN-CFG] n78 100 Mhz Numerology=1,SCS=30Khz DL64QAM, UL64QAM",
+    "Epic Name": "[EN-CFG] AirVelocity2700 100 Mhz Numerology=1,SCS=30Khz"
+}

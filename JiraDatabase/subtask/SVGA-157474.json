@@ -1,0 +1,24 @@
+{
+    "Chipset": "FSM",
+    "Assignee": "skashyap",
+    "TDD Split": "DL  80% : UL 20% ('70/20/10' DL/UL/F %)",
+    "Product support": "AIO-FSM",
+    "TP QAM config": "DL256QAM",
+    "BS Hardware Type": "AirSpeed 2900",
+    "Product At Fault": "RU",
+    "Backhaul": "5G",
+    "Band": "B42",
+    "FC": "FC2",
+    "BW": "10+40Mhz",
+    "Cell/Carrier Config": "Single Cell-Sector1",
+    "Summary": "RU",
+    "Numerology(SCS)": "Numerology=1,SCS=30Khz",
+    "Format(SSF)": "Format 3 - DL 92% : UL 0%",
+    "UL Layers": [
+        "2",
+        "3"
+    ],
+    "DL Layers": 4,
+    "DL CA": 1,
+    "UL CA": 1
+}

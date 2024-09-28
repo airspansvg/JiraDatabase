@@ -1,0 +1,15 @@
+{
+    "Sub-Tasks": [
+        "SVGA-49582",
+        "SVGA-49583",
+        "SVGA-49585",
+        "SVGA-49586"
+    ],
+    "Product At Fault": "Unknown",
+    "Summary": "[EN-CFG] AirVelocity2700 n77 100 Mhz Numerology=1,SCS=30Khz",
+    "Epic Name": "[EN-CFG] AirVelocity2700 100 Mhz Numerology=1,SCS=30Khz",
+    "Fix Version/s": [
+        "BackLOG",
+        "SR20.50 GA"
+    ]
+}

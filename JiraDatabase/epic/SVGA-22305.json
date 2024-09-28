@@ -1,0 +1,20 @@
+{
+    "Sub-Tasks": [
+        "SVGA-22306",
+        "SVGA-22307",
+        "SVGA-22308",
+        "SVGA-22397",
+        "SVGA-22398",
+        "SVGA-22399",
+        "SVGA-22400",
+        "SVGA-62219",
+        "SVGA-68392",
+        "SVGA-70242",
+        "SVGA-70243",
+        "SVGA-124864",
+        "SVGA-124866"
+    ],
+    "Product At Fault": "Unknown",
+    "Summary": "[EN-CFG] AS 2200/2900 40+20  and 20+40 Mhz Numerology=1,SCS=30Khz",
+    "Epic Name": "[EN-CFG] AS 2200/2900 40 Mhz Numerology=1,SCS=30Khz"
+}

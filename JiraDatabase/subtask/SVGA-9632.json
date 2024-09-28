@@ -1,0 +1,22 @@
+{
+    "Chipset": "Dell-(DU+VCU)-Pomona",
+    "TDD Split": "DL  60% : UL 40% ('40/40/20' DL/UL/F %)",
+    "Product support": "VRAN",
+    "TP QAM config": [
+        "DL64QAM",
+        "UL64QAM"
+    ],
+    "BS Hardware Type": "2xRU-AV2700-2xDU-2xCU",
+    "Product At Fault": "RIU-D",
+    "PUCCH": 1,
+    "Band": "n78",
+    "BW": "20MHz",
+    "Cell/Carrier Config": "MultiCell-Cont.",
+    "Summary": "[RU1] AirVelocity 2700_20MHz - RU-AV2700-2xDU-2xCU Dell-(DU+VCU)-Pomona",
+    "Numerology(SCS)": "Numerology=1,SCS=30Khz",
+    "Format(SSF)": "Format 2 - DL 0% : UL 0%",
+    "UL Layers": 1,
+    "DL Layers": 2,
+    "DL CA": 1,
+    "UL CA": 1
+}

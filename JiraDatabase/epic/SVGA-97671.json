@@ -1,0 +1,25 @@
+{
+    "R&D Committed Release": "No R&D commit",
+    "R&D Approved Release": "No R&D commit",
+    "Platform": "None",
+    "Epic/Initiative": "Epic",
+    "Outbound Roadmap": "No",
+    "Sub-Tasks": [
+        "SVGA-97672",
+        "SVGA-97673",
+        "SVGA-97674",
+        "SVGA-97676",
+        "SVGA-97677",
+        "SVGA-101654",
+        "SVGA-101655"
+    ],
+    "Prerelease R&D Commit": "No R&D Commit",
+    "Product At Fault": "Unknown",
+    "Summary": "[EN-CFG] n77 80 Mhz Numerology=1,SCS=30Khz,60/20/20 DL/UL/F, DL256QAM, UL64QAM",
+    "Epic Name": "[EN-CFG] n77 80 Mhz Numerology=1,SCS=30Khz,60/20/20 DL/UL/F, DL256QAM, UL64QAM",
+    "SRS Approved": "No",
+    "Test List CV": "5",
+    "Reasons": "Other",
+    "DL CA": 1,
+    "UL CA": 1
+}

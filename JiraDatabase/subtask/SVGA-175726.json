@@ -1,0 +1,22 @@
+{
+    "Chipset": "FSM",
+    "TDD Split": "DL 80% : UL 20% ('60/20/20' DL/UL/F %)",
+    "Product support": "AIO-MMW",
+    "TP QAM config": [
+        "DL64QAM",
+        "UL64QAM"
+    ],
+    "BS Hardware Type": "Air5G 7200",
+    "Product At Fault": "RU",
+    "PUCCH": 2,
+    "Band": "n257",
+    "BW": "100MHz",
+    "Cell/Carrier Config": "Single Cell-Sector1",
+    "Summary": "[RU] Air5G 7200_100MHz_SC_FORMAT56_CA",
+    "Numerology(SCS)": "Numerology=3,SCS=120Khz",
+    "Format(SSF)": "Format 56 - DL 43% : UL  0%",
+    "UL Layers": 1,
+    "DL Layers": 2,
+    "DL CA": 2,
+    "UL CA": 1
+}

@@ -1,0 +1,23 @@
+{
+    "R&D Committed Release": "No R&D commit",
+    "R&D Approved Release": "No R&D commit",
+    "Platform": "None",
+    "Epic/Initiative": "Epic",
+    "Outbound Roadmap": "No",
+    "Sub-Tasks": [
+        "SVGA-60244",
+        "SVGA-60246",
+        "SVGA-60250",
+        "SVGA-60252",
+        "SVGA-60254",
+        "SVGA-99840",
+        "SVGA-99841"
+    ],
+    "Prerelease R&D Commit": "No R&D Commit",
+    "Product At Fault": "Unknown",
+    "Summary": "[EN-CFG] 40+40 Mhz vs. 40 Mhz Numerology=1,SCS=30Khz",
+    "Epic Name": "[EN-CFG] 40+40 Mhz vs. 40 Mhz Numerology=1,SCS=30Khz",
+    "SRS Approved": "No",
+    "Test List CV": "5",
+    "Reasons": "Other"
+}

@@ -1,0 +1,14 @@
+{
+    "Sub-Tasks": [
+        "SVGA-5387",
+        "SVGA-5521",
+        "SVGA-5889",
+        "SVGA-5890",
+        "SVGA-5891",
+        "SVGA-7529"
+    ],
+    "BS Hardware Type": "AirVelocity 6200",
+    "Product At Fault": "Unknown",
+    "Summary": "[EN-CFG] MMW 1RU",
+    "Epic Name": "[EN-CFG] MMW 1RU"
+}

@@ -1,0 +1,22 @@
+{
+    "Chipset": "FSM",
+    "TDD Split": "DL  80% : UL 20% ('70/20/10' DL/UL/F %)",
+    "Product support": "AIO-FSM",
+    "TP QAM config": [
+        "UL64QAM",
+        "DL256QAM"
+    ],
+    "BS Hardware Type": "AirSpeed 1900",
+    "Product At Fault": "RU",
+    "PUCCH": 2,
+    "Band": "n77",
+    "BW": "40MHz",
+    "Cell/Carrier Config": "Single Cell-Sector1",
+    "Summary": "[RU] AS1900 40MHz,14G,TDD70_20",
+    "Numerology(SCS)": "Numerology=1,SCS=30Khz",
+    "Format(SSF)": "Format 2 - DL 0% : UL 0%",
+    "UL Layers": 1,
+    "DL Layers": 2,
+    "DL CA": 1,
+    "UL CA": 1
+}

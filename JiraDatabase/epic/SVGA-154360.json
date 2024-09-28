@@ -1,0 +1,23 @@
+{
+    "R&D Committed Release": "No R&D commit",
+    "R&D Approved Release": "No R&D commit",
+    "Platform": "None",
+    "Epic/Initiative": "Epic",
+    "Outbound Roadmap": "No",
+    "Sub-Tasks": [
+        "SVGA-154363",
+        "SVGA-154364",
+        "SVGA-154366",
+        "SVGA-154368",
+        "SVGA-175726"
+    ],
+    "Prerelease R&D Commit": "No R&D Commit",
+    "Product At Fault": "Unknown",
+    "Summary": "[EN-CFG] 100 Mhz Numerology=1,SCS=120Khz Format 6",
+    "Epic Name": "[EN-CFG] 100 Mhz Numerology=1,SCS=120Khz Format 6",
+    "SRS Approved": "No",
+    "Test List CV": "5",
+    "Reasons": "Other",
+    "DL CA": 1,
+    "UL CA": 1
+}

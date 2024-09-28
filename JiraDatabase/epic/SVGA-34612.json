@@ -1,0 +1,12 @@
+{
+    "Sub-Tasks": [
+        "SVGA-34615",
+        "SVGA-34616",
+        "SVGA-34617",
+        "SVGA-34618",
+        "SVGA-34619"
+    ],
+    "Product At Fault": "Unknown",
+    "Summary": "[EN-CFG] AS 2200/2900 100 Mhz Numerology=1,SCS=30Khz",
+    "Epic Name": "[EN-CFG] AS 2200/2900 40 Mhz Numerology=1,SCS=30Khz"
+}
