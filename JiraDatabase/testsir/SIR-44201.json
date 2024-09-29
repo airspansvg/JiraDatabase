@@ -1,0 +1,13 @@
+{
+    "Feature Name": "xN_HO_Inter_Freq",
+    "Keyword": "Handovers",
+    "Automation Traffic Direction": "Bidi",
+    "Test_Run_Time": "300",
+    "Number of UEs": 1,
+    "HO Type": "XN Inter Freq.",
+    "Traffic Transport Layer Protocol": "UDP",
+    "Frame_Size": "1300",
+    "Traffic Testing tool": "IPERFv2",
+    "Summary": "Xn Inter Frequency Handover by Iperf 1 UEs - 5 Min",
+    "Group Name": "HO_Results"
+}

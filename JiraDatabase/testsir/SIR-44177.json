@@ -1,0 +1,11 @@
+{
+    "Feature Name": "gNB_SW_Upgrade_Via_ACP",
+    "Keyword": "AIO SW Upgrade",
+    "Automation Traffic Direction": "Bidi",
+    "Number of UEs": 1,
+    "Traffic Transport Layer Protocol": "UDP",
+    "Frame_Size": "1300",
+    "Traffic Testing tool": "IPERFv2",
+    "Summary": "gNB_SW_Upgrade_Via_ACP",
+    "Group Name": "Initialization_and_SW_upgrade_process"
+}

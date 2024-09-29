@@ -1,0 +1,16 @@
+{
+    "setup_name": [
+        "ASIN-RAAS103"
+    ],
+    "Summary": "[RAAS103][AirStrand 2200] Xn Inter Frequency Handover - 40+40 Mhz",
+    "fix_versions": [
+        "AllInOne_Sanity_Weekly_Regression",
+        "SR20.50 GA",
+        "SR21.00_GA",
+        "SR21.50 GA"
+    ],
+    "test_suite": {
+        "SIR-44177": "gNB_SW_Upgrade_Via_ACP",
+        "SIR-44201": "Xn Inter Frequency Handover by Iperf 1 UEs - 5 Min"
+    }
+}
