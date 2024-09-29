@@ -1,0 +1,20 @@
+{
+    "setup_name": [
+        "ASIL-RAAS7"
+    ],
+    "Summary": "[RAAS7][AirSpeed 2900] NG Inter Frequency Handover - 40+40 Mhz",
+    "fix_versions": [
+        "AllInOne_Sanity_Weekly_Regression",
+        "Bubble_Regression",
+        "SR20.50 GA",
+        "SR20.00_UR1",
+        "SVG_SR20.00_UR1",
+        "SR20.00_UR1_ATP",
+        "SR21.00_GA",
+        "SR21.50 GA"
+    ],
+    "test_suite": {
+        "SIR-44177": "gNB_SW_Upgrade_Via_ACP",
+        "SIR-46422": "NG Inter Frequency Handover by Iperf 1 UEs - 5 Min"
+    }
+}
