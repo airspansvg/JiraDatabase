@@ -1,5 +1,7 @@
 {
-    "TP QAM config": "DL64QAM",
+    "TP QAM config": [
+        "DL64QAM"
+    ],
     "BS Hardware Type": "AirVelocity 6200",
     "Product At Fault": "RU",
     "PUCCH": 1,
