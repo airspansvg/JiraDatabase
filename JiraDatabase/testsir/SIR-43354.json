@@ -1,15 +1,12 @@
 {
-  "Automation_Labels": "AD_gNB_Provissioning",
   "Feature Name": "gNB_Provissioning",
   "Keyword": "Run Reset to Default gNB",
   "Automation Traffic Direction": "UL",
   "Test_Run_Time": "600",
   "Number of UEs": 1,
-  "Product At Fault": "Unknown",
   "Traffic Transport Layer Protocol": "UDP",
   "Frame_Size": "1300",
   "Traffic Testing tool": "IPERFv2",
   "Summary": "gNB Reset_to_Default",
-  "Fix Version/s": "5G_Automation",
   "Group Name": "gNB_Reset_to_Default"
 }
