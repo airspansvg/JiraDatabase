@@ -1,6 +1,5 @@
 {
     "Chipset": "FSM",
-    "Assignee": "skashyap",
     "TDD Split": "DL  80% : UL 20% ('70/20/10' DL/UL/F %)",
     "Product support": "AIO-FSM",
     "TP QAM config": "DL256QAM",

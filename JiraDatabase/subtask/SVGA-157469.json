@@ -1,9 +1,6 @@
 {
-    "Assignee": "skashyap",
     "BS Hardware Type": "CU",
     "Product At Fault": "vCU-CP",
-    "Labels": "5g",
-    "Component/s": "5g",
     "Summary": "CUCP",
     "DL CA": 1,
     "UL CA": 1
